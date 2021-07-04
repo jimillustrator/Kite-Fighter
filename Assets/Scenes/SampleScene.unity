@@ -210,7 +210,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 0, y: 4.47, z: 1.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -355,6 +355,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: 712ae462a3de544d7bdf97a71212fc92, type: 2}
     - target: {fileID: -8577743373132383625, guid: 99c655a3c5b504da9ab30cb592db2757, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 712ae462a3de544d7bdf97a71212fc92, type: 2}
+    - target: {fileID: -8577743373132383625, guid: 99c655a3c5b504da9ab30cb592db2757, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
       objectReference: {fileID: 2100000, guid: 712ae462a3de544d7bdf97a71212fc92, type: 2}
@@ -370,6 +374,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: diamond.kite.unity
       objectReference: {fileID: 0}
+    - target: {fileID: 3623855429658743780, guid: 99c655a3c5b504da9ab30cb592db2757, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c1425f0ff62c34c0dba6d7800377a243, type: 2}
+    - target: {fileID: 5922377786362770963, guid: 99c655a3c5b504da9ab30cb592db2757, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8525492dddd974e54bad8c107332fba7, type: 2}
     - target: {fileID: 8967936297961072905, guid: 99c655a3c5b504da9ab30cb592db2757, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
